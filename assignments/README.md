@@ -25,7 +25,7 @@ _CUNY Tech Prep 2018-2019_
     + [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
         * _Only complete sections 1-9_
 - When done, take a screenshot of your account showing you've completed the courses and submit to the Google Form shared on Slack.
-- In the next few weeks you will also receive a JavaScript programming challenge. You should complete it by August 20th.
+- ~In the next few weeks you will also receive a JavaScript programming challenge. You should complete it by August 20th.~
 
 _If Git and JavaScript are challenging for you to learn, you can take a look at these additional resources:_
 
@@ -34,6 +34,10 @@ _If Git and JavaScript are challenging for you to learn, you can take a look at 
     + [Eloquent JavaScript, 3rd Edition](http://eloquentjavascript.net/index.html)
         * This is a really good book and it is _FREE_.
         * Focus only on chapters 1-6, 10, & 11
+
+### 03: JavaScript Programming Challenge
+
+**Will be posted shortly**
 
 
 ## Fall Assignments
