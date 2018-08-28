@@ -6,6 +6,7 @@ _CUNY Tech Prep 2018-2019_
 
 [Lecture Slides](lecture-01.pdf)
 
+[Development Environment Setup](../guides/development-environment-setup.md)
 
 Topics:
 

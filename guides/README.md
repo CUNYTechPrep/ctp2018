@@ -12,3 +12,5 @@
 - [JavaScript Resources Guide](javascript.md)
 - [Installing VirtualBox Guest Additions](installing-virtual-box-guest-additions.md)
 - [Installing PostgreSQL](installing-postgresql.md)
+- [Development Environment Setup](development-environment-setup.md)
+
