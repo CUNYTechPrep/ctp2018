@@ -27,7 +27,7 @@ Topics:
 
 ## (September 11 - September 14) Week 3
 
-_On Tuesday 9/11, we will be having class. CUNY will not have classes. If you cannot make the Tuesday evening class, please contact Silu to reschedule your class._
+_On Tuesday 9/11, CTP will have regular class. If you cannot make the Tuesday evening class, please contact Silu to reschedule your class._
 
 Topics:
 
