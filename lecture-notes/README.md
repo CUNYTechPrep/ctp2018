@@ -25,4 +25,15 @@ Topics:
 
 - React Intro
 
+## (September 11 - September 14) Week 3
 
+_On Tuesday 9/11, we will be having class. CUNY will not have classes. If you cannot make the Tuesday evening class, please contact Silu to reschedule your class._
+
+Topics:
+
+- More React
+
+
+## (September 18 - September 21) NO CLASS
+
+_No CTP classes are scheduled, but various workshops, events, and mock interviews will be taking place throughout the week._
