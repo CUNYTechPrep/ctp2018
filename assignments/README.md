@@ -40,6 +40,7 @@ _If Git and JavaScript are challenging for you to learn, you can take a look at 
 ## Fall Assignments
 
 
+### Individual Project Proposal
 **Due September 17, 2018**
 
 See the proposal requirements here: [Individual Project Proposal guidelines](individual-project-proposal.md)
