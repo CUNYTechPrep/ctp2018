@@ -35,10 +35,24 @@ _If Git and JavaScript are challenging for you to learn, you can take a look at 
         * This is a really good book and it is _FREE_.
         * Focus only on chapters 1-6, 10, & 11
 
-### 03: JavaScript Programming Challenge
-
-**Will be posted shortly**
 
 
 ## Fall Assignments
+
+
+**Due September 17, 2018**
+
+See the proposal requirements here: [Individual Project Proposal guidelines](individual-project-proposal.md)
+
+[Submit Here](https://docs.google.com/forms/d/e/1FAIpQLSfC2DPTEonXBW_9SGur2nqvZoUonRG9MeY4HyDq9if4Dc2F9Q/viewform)
+
+
+### Team Project Proposal
+**Due September 29, 2018**
+
+Form a team of 3 studens and submit a Team Project Propsal.
+
+See the team proposal requirements here: [Team Project Proposal guidelines](team-project-proposal.md)
+
+[Submit Here](https://docs.google.com/forms/d/e/1FAIpQLScoDsXNDWSs6eM2GytInSqoq_Ns2lLYUUKFPBT3Nc4N0_KvHw/viewform)
 
