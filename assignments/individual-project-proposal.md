@@ -64,7 +64,7 @@ All projects will have the following requirements:
  - Facebook -->
 
 
-## Proposal Requirements (Due: 9/17/2017)
+## Proposal Requirements (Due: 9/17/2018)
 
 Propose your own project idea with the following information:
 
