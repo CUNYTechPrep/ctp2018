@@ -8,6 +8,8 @@ _CUNY Tech Prep 2018-2019_
 
 [Development Environment Setup](../guides/development-environment-setup.md)
 
+[Week 01 Projects](https://github.com/CUNYTechPrep/week-01-projects)
+
 Topics:
 
 - Fall Semester Overview
@@ -29,11 +31,31 @@ Topics:
 
 _On Tuesday 9/11, CTP will have regular class. If you cannot make the Tuesday evening class, please contact Silu to reschedule your class._
 
+[Lecture Slides](lecture-03.pdf)
+
+[Lecture Slides 2](lecture-03-part-2.pdf)
+
+[Week 03 Projects](https://github.com/CUNYTechPrep/week-03-projects)
+
 Topics:
 
+- Client-Server Communication
+    + Parts of a URL
+    + Understanding HTTP Request-Response
 - More React
-
+- `fetch(...)`
 
 ## (September 18 - September 21) NO CLASS
 
 _No CTP classes are scheduled, but various workshops, events, and mock interviews will be taking place throughout the week._
+
+
+- Review React
+- Do Week 03 projects
+
+## (September 25 - September 28) Week 4
+
+Topics:
+
+- React
+- `fetch(...)`
