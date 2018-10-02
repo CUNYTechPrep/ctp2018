@@ -59,3 +59,22 @@ Topics:
 
 - React
 - `fetch(...)`
+
+
+## (October 2 - October 5) Week 5
+
+[Lecture Slides](lecture-04.pdf)
+
+[Week 04 Projects](https://github.com/CUNYTechPrep/week-04-projects)
+
+Topics:
+
+- Fullstack Review: Frontend vs Backend
+- About `npm`
+- Building a backend with Express.js
+  + Routing
+  + Route Parameters
+  + Query Parameters
+  + Body Parameters
+- RESTful Routing
+
