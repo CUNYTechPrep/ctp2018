@@ -78,3 +78,16 @@ Topics:
   + Body Parameters
 - RESTful Routing
 
+## (October 9 - October 12) Week 6
+
+[Lecture Slides](lecture-05.pdf)
+
+[Week 05 Projects](https://github.com/CUNYTechPrep/week-05-projects)
+
+Topics: 
+
+- SDLC
+- MVC (Project Structure)
+- Databases and Data Modeling
+- ORM's (Sequelize.js)
+- Views and Templates (Handlebars)
