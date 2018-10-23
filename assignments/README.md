@@ -57,3 +57,19 @@ See the team proposal requirements here: [Team Project Proposal guidelines](team
 
 [Submit Here](https://docs.google.com/forms/d/e/1FAIpQLScoDsXNDWSs6eM2GytInSqoq_Ns2lLYUUKFPBT3Nc4N0_KvHw/viewform)
 
+### First Project Presentation
+**Presentations are during Week 9 classes: (10/30 - 11/02)**
+
+#### Presentation Guidelines
+
+- 7 minutes per team (5min _presentation_, 3min _Q&A_)
+- **All team members** must present at least one slide
+- See a presentation template here: [first_project_presentation_template.pdf](first_project_presentation_template.pdf)
+- (_Optional_) Show a demo of _work in progress_ if you can
+
+#### What to submit
+
+- One presentation per team
+- Submit to your project mentor prior to week 9 class for feedback
+  + Send your mentor and instructor a link to your Google Slides
+- You must be ready to present during Week 9 class
