@@ -51,7 +51,7 @@ See the proposal requirements here: [Individual Project Proposal guidelines](ind
 ### Team Project Proposal
 **Due September 29, 2018**
 
-Form a team of 3 studens and submit a Team Project Propsal.
+Form a team of 3 students and submit a Team Project Propsal.
 
 See the team proposal requirements here: [Team Project Proposal guidelines](team-project-proposal.md)
 
@@ -62,7 +62,7 @@ See the team proposal requirements here: [Team Project Proposal guidelines](team
 
 #### Presentation Guidelines
 
-- 7 minutes per team (5min _presentation_, 3min _Q&A_)
+- 8 minutes per team (5 min _presentation_, 3 min _Q&A_)
 - **All team members** must present at least one slide
 - See a presentation template here: [first_project_presentation_template.pdf](first_project_presentation_template.pdf)
 - (_Optional_) Show a demo of _work in progress_ if you can
